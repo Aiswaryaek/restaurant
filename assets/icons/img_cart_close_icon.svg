@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.5" height="19.5" viewBox="0 0 19.5 19.5">
+  <g id="Icon_ion-close-circle-outline" data-name="Icon ion-close-circle-outline" transform="translate(-3.75 -3.75)">
+    <path id="Path_3914" data-name="Path 3914" d="M22.5,13.5a9,9,0,1,0-9,9A9,9,0,0,0,22.5,13.5Z" fill="none" stroke="red" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Path_3915" data-name="Path 3915" d="M19.5,19.5l-6-6m0,6,6-6" transform="translate(-3 -3)" fill="none" stroke="red" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>

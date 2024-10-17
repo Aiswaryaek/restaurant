@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250" height="250" viewBox="0 0 250 250">
+  <defs>
+    <clipPath id="clip-iPhone_14_Pro_Max_5">
+      <rect width="250" height="250"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_14_Pro_Max_5" data-name="iPhone 14 Pro Max – 5" clip-path="url(#clip-iPhone_14_Pro_Max_5)">
+    <rect width="250" height="250" fill="#fff"/>
+    <g id="Group_7447" data-name="Group 7447" transform="translate(9517.116 14458.116)">
+      <g id="Group_211" data-name="Group 211" transform="translate(-9480.476 -14421.476)">
+        <g id="Rectangle_148" data-name="Rectangle 148" transform="translate(0.36 56.36)" fill="none" stroke="#ed1c24" stroke-width="7">
+          <rect width="176" height="64" stroke="none"/>
+          <rect x="3.5" y="3.5" width="169" height="57" fill="none"/>
+        </g>
+        <g id="Rectangle_149" data-name="Rectangle 149" transform="translate(24.36 136.36)" fill="none" stroke="#ed1c24" stroke-width="7">
+          <rect width="48" height="40" stroke="none"/>
+          <rect x="3.5" y="3.5" width="41" height="33" fill="none"/>
+        </g>
+        <g id="Rectangle_152" data-name="Rectangle 152" transform="translate(24.36 0.36)" fill="none" stroke="#ed1c24" stroke-width="7">
+          <rect width="48" height="40" stroke="none"/>
+          <rect x="3.5" y="3.5" width="41" height="33" fill="none"/>
+        </g>
+        <g id="Rectangle_150" data-name="Rectangle 150" transform="translate(104.36 136.36)" fill="none" stroke="#ed1c24" stroke-width="7">
+          <rect width="48" height="40" stroke="none"/>
+          <rect x="3.5" y="3.5" width="41" height="33" fill="none"/>
+        </g>
+        <g id="Rectangle_151" data-name="Rectangle 151" transform="translate(104.36 0.36)" fill="none" stroke="#ed1c24" stroke-width="7">
+          <rect width="48" height="40" stroke="none"/>
+          <rect x="3.5" y="3.5" width="41" height="33" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

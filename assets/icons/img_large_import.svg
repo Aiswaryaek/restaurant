@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108.744" height="99.082" viewBox="0 0 108.744 99.082">
+  <g id="Group_16583" data-name="Group 16583" transform="translate(-772 -700)">
+    <g id="Group_16581" data-name="Group 16581" transform="translate(772 700)">
+      <path id="Icon_awesome-cloud-upload-alt" data-name="Icon awesome-cloud-upload-alt" d="M91.345,35.315A16.331,16.331,0,0,0,76.121,13.124a16.228,16.228,0,0,0-9.056,2.753A27.188,27.188,0,0,0,16.312,29.436c0,.459.017.918.034,1.376a24.474,24.474,0,0,0,8.122,47.558H86.995a21.747,21.747,0,0,0,4.35-43.056Zm-24.5,10.433H55.731v19.03A2.727,2.727,0,0,1,53.013,67.5H44.857a2.727,2.727,0,0,1-2.719-2.719V45.747H31.026a2.714,2.714,0,0,1-1.92-4.639L47.015,23.2a2.728,2.728,0,0,1,3.84,0L68.763,41.109a2.717,2.717,0,0,1-1.92,4.639Z" transform="translate(0 -2.25)" opacity="0.05"/>
+      <text id="File_Upload" data-name="File Upload" transform="translate(54.372 97.082)" font-size="7" font-family="Pangram-Medium, Pangram" font-weight="500" opacity="0.29"><tspan x="-18.172" y="0">File Upload</tspan></text>
+    </g>
+  </g>
+</svg>

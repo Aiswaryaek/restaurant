@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250" height="250" viewBox="0 0 250 250">
+  <defs>
+    <clipPath id="clip-Custom_Size_5">
+      <rect width="250" height="250"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_5" data-name="Custom Size – 5" clip-path="url(#clip-Custom_Size_5)">
+    <rect width="250" height="250" fill="#fff"/>
+    <g id="Icon_feather-save" data-name="Icon feather-save" transform="translate(25.278 25.278)">
+      <path id="Path_1774" data-name="Path 1774" d="M181.783,203.943H26.66A22.16,22.16,0,0,1,4.5,181.783V26.66A22.16,22.16,0,0,1,26.66,4.5H148.542l55.4,55.4V181.783A22.16,22.16,0,0,1,181.783,203.943Z" transform="translate(-4.5 -4.5)" fill="none" stroke="#ed1c24" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path id="Path_1775" data-name="Path 1775" d="M121.3,108.141V19.5H10.5v88.641" transform="translate(33.821 91.302)" fill="none" stroke="#ed1c24" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+      <path id="Path_1776" data-name="Path 1776" d="M10.5,4.5V59.9H99.141" transform="translate(33.821 -4.5)" fill="none" stroke="#ed1c24" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="55" viewBox="0 0 54 55">
+  <g id="Group_4780" data-name="Group 4780" transform="translate(-0.433 0.855)">
+    <g id="Ellipse_78" data-name="Ellipse 78" transform="translate(0.433 -0.855)" fill="#fff" stroke="red" stroke-width="2">
+      <ellipse cx="27" cy="27.5" rx="27" ry="27.5" stroke="none"/>
+      <ellipse cx="27" cy="27.5" rx="26" ry="26.5" fill="none"/>
+    </g>
+    <path id="Icon_material-done" data-name="Icon material-done" d="M14.219,25.661,7.38,18.822,5.1,21.1l9.119,9.119L33.76,10.68,31.48,8.4Z" transform="translate(8.003 7.566)" fill="red"/>
+  </g>
+</svg>
